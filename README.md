@@ -102,5 +102,5 @@ Gokul
 
 ---
 
-Thank you for reviewing this project 🙌
+Thank you for reviewing this project 
 
